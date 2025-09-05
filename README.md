@@ -28,7 +28,7 @@ Feita com **HTML5**, **CSS3** e **JavaScript puro**, com persistência usando **
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/todo-list.git
+   git clone [https://github.com/FelipeSfrr/todo-list]
 
 Entre na pasta do projeto:
 
